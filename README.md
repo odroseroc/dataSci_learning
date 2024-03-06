@@ -1,2 +1,2 @@
 # dataSci_learning
-A collection of several projects and exercises to learn simulation and data analysis.
+A collection of several projects and exercises to learn data analysis and simulation.
